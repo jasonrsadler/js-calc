@@ -1,0 +1,17 @@
+.calc {
+  margin-top: 250px;
+  margin-left: 100px;
+  max-width: 300px;
+  border: 1px solid black;
+  padding: 20px;
+}
+
+.calc-display {
+  padding: 20px;
+  border: 1px solid black;
+  text-align: right;
+}
+
+.display-text {
+  font-size: 14;
+}

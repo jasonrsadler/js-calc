@@ -1,0 +1,9 @@
+.num-button {
+  height: 50px;
+  width: 50px;
+}
+
+.calc-items {
+  padding-top: 10px;
+  flex: 1 0 25%
+}
